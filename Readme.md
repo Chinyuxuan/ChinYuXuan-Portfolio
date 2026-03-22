@@ -1,6 +1,7 @@
 # Chin Yu Xuan | Computer Science  Portfolio
 
 ## 📂 Featured Projects
+**Please visit the project repository link to view the details.**
 
 ### 🎮 1. USAGI MINION– 3D Battle Game (Computer Graphics)
 * Built a 3D interactive combat game with custom-modeled characters.
