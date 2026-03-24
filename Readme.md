@@ -25,11 +25,11 @@
 
 ---
 ### Extra certificates
-* Google Analytics Certification
+Google Analytics Certification
 * **Link🔗 (https://skillshop.credential.net/d175ab5e-e9b4-4b67-9e1e-92e5967c4a70#acc.5FCwNLAS)**
-* AWS Academy Graduate - Cloud Foundations - Training Badge
+AWS Academy Graduate - Cloud Foundations - Training Badge
 * **Link🔗 (https://www.credly.com/badges/b2093c56-3899-4e64-857f-f61d85078bfa/public_url)**
-* Competitions certificates
+Competitions certificates
 * **Link🔗 (https://drive.google.com/drive/folders/1OWMPFPwT28cgjAR2H3lgF6hdAgtxifuZ?usp=sharing)**
  
 
