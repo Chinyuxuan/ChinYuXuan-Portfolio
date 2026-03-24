@@ -24,6 +24,16 @@
 * **[View Project Repository 🔗](https://github.com/Chinyuxuan/Expense_tracker)** | **[Watch Demo 🎬](https://www.youtube.com/watch?v=jYuYqxnVn04)** 
 
 ---
+### Extra certificates
+* Google Analytics Certification
+* **Link🔗 (https://skillshop.credential.net/d175ab5e-e9b4-4b67-9e1e-92e5967c4a70#acc.5FCwNLAS)**
+* AWS Academy Graduate - Cloud Foundations - Training Badge
+* **Link🔗 (https://www.credly.com/badges/b2093c56-3899-4e64-857f-f61d85078bfa/public_url)**
+* Competitions certificates
+* **Link🔗 (https://drive.google.com/drive/folders/1OWMPFPwT28cgjAR2H3lgF6hdAgtxifuZ?usp=sharing)**
+ 
+
+---
 📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/chin-yu-xuan-0010b53b6
 
 ) | yuxuan9008@gmail.com
